@@ -1,0 +1,11 @@
+@property --dip-circle {
+	syntax: '<url> | none';
+	inherits: true;
+	initial-value: url('./icons/circle.svg');
+}
+
+@property --dip-zap {
+	syntax: '<url> | none';
+	inherits: true;
+	initial-value: url('./icons/zap.svg');
+}

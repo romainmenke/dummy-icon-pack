@@ -1,11 +1,12 @@
 {
   "name": "@rmenke/dummy-icon-pack",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Romain Menke",
   "description": "A dummy icon pack",
   "files": [
     "index.css",
     "untyped.css",
+    "initial-only.css",
     "icons/*"
   ],
   "license": "MIT",
@@ -16,6 +17,9 @@
     },
     "./untyped-icon-pack": {
       "default": "./untyped.css"
+    },
+    "./typed-icon-pack--only-initial": {
+      "default": "./initial-only.css"
     }
   },
   "private": false,
