@@ -1,0 +1,16 @@
+{
+  "name": "@rmenke/dummy-icon-pack",
+  "version": "1.0.0",
+  "author": "Romain Menke",
+  "description": "A dummy icon pack",
+  "files": [
+    "index.css",
+    "icons/*"
+  ],
+  "license": "MIT",
+  "main": "index.css",
+  "private": "false",
+  "publishConfig": {
+    "access": "public"
+  }
+}
