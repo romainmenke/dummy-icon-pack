@@ -9,7 +9,7 @@
   ],
   "license": "MIT",
   "main": "index.css",
-  "private": "false",
+  "private": false,
   "publishConfig": {
     "access": "public"
   },
