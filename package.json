@@ -9,6 +9,14 @@
   ],
   "license": "MIT",
   "main": "index.css",
+  "exports": {
+    "./typed-icon-pack": {
+      "default": "./index.css"
+    },
+    "./untyped-icon-pack": {
+      "default": "./untyped.css"
+    }
+  },
   "private": false,
   "publishConfig": {
     "access": "public"
